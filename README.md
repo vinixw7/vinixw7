@@ -46,7 +46,7 @@
 const summonVinicius = () => {
   return {
     email: "vinicius.devcrux@gmail.com", // Substitua pelo real
-    linkedin: "[The Ninth Circle](https://linkedin.com/)",
+    linkedin: ""
     discord: "vini_snuff"
   };
 };
