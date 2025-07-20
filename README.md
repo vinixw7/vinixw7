@@ -3,7 +3,7 @@
 
 <div align="center">  
 
-![Software Engineering](https://github.com/user-attachments/assets/c723e950-fc21-4d9d-9fd1-722289eb34cb)
+![Software Engineering](https://github.com/user-attachments/assets/01db939e-495a-43c6-9d8b-b12ffe9b3bce)
 
 
 ### **"Transformando lógica em soluções escaláveis e eficientes."**  
