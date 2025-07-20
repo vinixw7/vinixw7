@@ -38,17 +38,11 @@
 
 ## **📂 Projetos Destacados**  
 
-### **1. Sistema de Compilação Avançada**  
-- Desenvolvi um compilador otimizado para linguagens de baixo nível, utilizando **LLVM e Rust**.  
-- Redução de **30% no tempo de execução** em comparação com soluções tradicionais.  
+### **1.  
 
-### **2. Plataforma de Análise de Dados em Tempo Real**  
-- Arquitetura baseada em **Apache Kafka e Python** para processamento de grandes volumes de dados.  
-- Integração com **machine learning** para previsão de anomalias.  
+### **2.   
 
-### **3. Infraestrutura como Código (IaC)**  
-- Automação de deploy em **AWS/GCP** usando **Terraform e Kubernetes**.  
-- Diminuição de **40% nos custos operacionais** com otimização de recursos.  
+### **3.   
 
 ---  
 
