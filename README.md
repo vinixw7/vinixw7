@@ -38,7 +38,33 @@
 
 ## **📂 Projetos Destacados**  
 
-### **1.  
+### **1.  CALCULADORAA SIMPLES : Recursos Implementados Operações Básicas (+, -, *, /)
+
+Suporte a teclado físico (números, operadores, Enter, Backspace)
+
+Histórico completo de cálculos
+
+Botão de limpeza
+
+Design responsivo para mobile e desktop
+
+Animações e feedback visual
+
+Tratamento de erros básicos
+
+🚀 Como usar Clone este repositório ou copie os arquivos
+
+Abra o index.html no navegador
+
+Use tanto o mouse quanto o teclado para operar
+
+💡 Melhorias Futuras Adicionar memória (M+, M-, MR, MC)
+
+Implementar temas alternativos (modo escuro)
+
+Adicionar operações científicas (√, %, π)
+
+Salvar histórico no localStorage
 
 ### **2.   
 
