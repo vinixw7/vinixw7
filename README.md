@@ -1,52 +1,83 @@
-<div align="center">
-  
-[Bem Vindo ]<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/2d6a5269-0d75-48f2-8daa-447dc3e5f9a2" />
+# **Vinícius Soares**  
+**Desenvolvedor de Software | Engenheiro de Sistemas**  
 
-  
-  # 𝕿𝖍𝖊 𝕯𝖆𝖗𝖐 𝕮𝖔𝖉𝖊 𝖔𝖋 **𝖁𝖎𝖓𝖎𝖈𝖎𝖚𝖘 𝕾𝖔𝖆𝖗𝖊𝖘** 
-  
-  ### 🔮 *"In darkness, we find the true essence of code..."* 🔮
-  
-  <div style="font-family: 'Times New Roman', serif; color: #bd93f9;">
+<div align="center">  
 
-  **☠️ Necromancer of Lost Algorithms**  
-  **🕯️ Keeper of the Forbidden Stack**  
-  **📜 Cursed by the Ancient Bugs**  
+![Software Engineering](https://github.com/Vinicius-Soares-Nascimento/Vinicius-Soares-Nascimento/assets/2d6a5269-0d75-48f2-8daa-447dc3e5f9a2)  
 
-  </div>
+### **"Transformando lógica em soluções escaláveis e eficientes."**  
+
+</div>  
+
+---  
+
+## **🛠️ Habilidades Técnicas**  
+
+### **Linguagens de Programação**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+
+### **Bancos de Dados**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+
+### **Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  
+
+### **Ferramentas & Frameworks**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+
+---  
+
+## **📂 Projetos Destacados**  
+
+### **1. Sistema de Compilação Avançada**  
+- Desenvolvi um compilador otimizado para linguagens de baixo nível, utilizando **LLVM e Rust**.  
+- Redução de **30% no tempo de execução** em comparação com soluções tradicionais.  
+
+### **2. Plataforma de Análise de Dados em Tempo Real**  
+- Arquitetura baseada em **Apache Kafka e Python** para processamento de grandes volumes de dados.  
+- Integração com **machine learning** para previsão de anomalias.  
+
+### **3. Infraestrutura como Código (IaC)**  
+- Automação de deploy em **AWS/GCP** usando **Terraform e Kubernetes**.  
+- Diminuição de **40% nos custos operacionais** com otimização de recursos.  
+
+---  
+
+## **📊 Estatísticas do GitHub**  
+
+<div align="center">  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinicius-Soares-Nascimento&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Soares-Nascimento&layout=compact&theme=radical)  
+
+</div>  
+
+---  
+
+## **📞 Contato**  
+
+📧 **E-mail:** [vinicius.devcrux@gmail.com](mailto:vinicius.devcrux@gmail.com)  
+💼 **LinkedIn:** [Vinícius Soares](https://www.linkedin.com/in/) *(Atualize seu link)*  
+💬 **Discord:** vini_snuff  
+
+---  
+
+<div align="center">  
+
+🔹 **Open to collaborations in:**  
+- **Backend Development (Python/C++)**  
+- **Cloud Architecture & DevOps**  
+- **Open Source Contributions**  
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Vinicius-Soares-Nascimento&color=blue&label=Profile+Views)  
 
 </div>
-
----
-
-### 🧙‍♂️ **Dark Arts (Skills)**  
-![Python](https://img.shields.io/badge/Python-666666?style=for-the-badge&logo=python&logoColor=black)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
-
-### 📚 **Grimoire (Projects)**  
-- [**Cursed Compiler**](https://github.com/) - A compiler that speaks in tongues  
-- [**Haunted Kernel**](https://github.com/) - OS modifications from the underworld  
-- [**Cryptic DB**](https://github.com/) - Where data goes to die  
-
-### 🕯️ **Rituals (Current Focus)**  
-- Summoning daemons (writing systemd services)  
-- Brewing potions (Docker containers with unknown ingredients)  
-- Translating ancient scrolls (COBOL to Rust)  
-
-### 🔮 **Divination (Stats)**  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&theme=dark&show_icons=true&include_all_commits=true)
-
----
-
-<details>
-<summary>📜 <b>Invocation Circle (Contact)</b></summary>
-
-```javascript
-const summonVinicius = () => {
-  return {
-    email: "vinicius.devcrux@gmail.com", // Substitua pelo real
-    linkedin: ""
-    discord: "vini_snuff"
-  };
-};
