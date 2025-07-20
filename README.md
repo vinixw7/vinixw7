@@ -73,8 +73,8 @@ Salvar histórico no localStorage
 
 <div align="center">  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinicius-Soares-Nascimento&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Soares-Nascimento&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinixw7&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinixw7&layout=compact&theme=radical)  
 
 </div>  
 
