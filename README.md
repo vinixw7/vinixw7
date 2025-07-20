@@ -3,7 +3,7 @@
 
 <div align="center">  
 
-![Software Engineering](https://github.com/Vinicius-Soares-Nascimento/Vinicius-Soares-Nascimento/assets/2d6a5269-0d75-48f2-8daa-447dc3e5f9a2)  
+![Software Engineering](https://br.pinterest.com/pin/396598310914520061/)  
 
 ### **"Transformando lógica em soluções escaláveis e eficientes."**  
 
